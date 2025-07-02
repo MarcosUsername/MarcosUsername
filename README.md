@@ -1,6 +1,6 @@
 - Yo, I’m Marco.
-- I’m looking to learn more about develoing in spaces such as Discord, Reddit, Twitter, Unity, Unreal Engine, and Blender, just to name a few.
-- I have a degree in Video Game Development.
+- I’m looking to learn more about develoing in spaces such as Gaming, and Automation - just to name a few.
+- I have a degree in Computer Science.
 - If you know something I don't, I am eager to learn.
 - Connect with me - https://linktr.ee/marcosusername
 
